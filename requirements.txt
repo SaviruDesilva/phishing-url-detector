@@ -1,6 +1,12 @@
 streamlit
 pandas
 numpy
-scikit-learn
+requests
+beautifulsoup4
+tldextract
+python-whois
 joblib
 category_encoders
+scikit-learn
+seaborn
+matplotlib
