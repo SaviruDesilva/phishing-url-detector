@@ -139,7 +139,7 @@ http://localhost:8501
 ## 📁 Project Structure
 
 ```
-├── app_phi.py                # Main Streamlit application
+├── app_phi.py            # Main Streamlit application
 ├── model.pkl             # Trained ML model
 ├── encoder.pkl           # Feature encoder
 ├── requirements.txt      # Dependencies
