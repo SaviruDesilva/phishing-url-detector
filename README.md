@@ -175,6 +175,6 @@ Do **NOT** use it for illegal activities or unauthorized scanning.
 ## 👤 Author
 
 **Saviru Desilva**
-Machine Learning & Security Enthusiast
+
 
 ---
